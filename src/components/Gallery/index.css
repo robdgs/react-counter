@@ -1,0 +1,7 @@
+.Gallery__image {
+  margin: 1rem;
+  border-radius: 1.5rem;
+}
+.Gallery__title {
+  font-weight: bold;
+}
